@@ -1,3 +1,3 @@
 # test_git
 test d'utilisation de github par jul.
-ajout d'une ligne depuis l'éditeur github
+ce test contient un fichier index.html ainsi qu'une feuille de style style.css
